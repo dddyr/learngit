@@ -1,5 +1,10 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello world.");
+<<<<<<< HEAD
+	printf("hello world.");//ddd
+=======
+	printf("hello world!");
+	return 0;
+>>>>>>> dev
 }
